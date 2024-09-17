@@ -35,3 +35,6 @@ Identify the elements divisible by 3 using the equation:
 Save output using `np.save`
 
 ## Version History
+
+v1.0 - Initial upload
+v2.0 - Included markdowns for readability
